@@ -1,0 +1,19 @@
+# 依赖目录
+node_modules/
+dist/
+dist-ssr/
+coverage/
+
+# 构建输出
+*.min.css
+*.min.scss
+*.min.sass
+*.min.less
+
+# 第三方库
+public/
+
+# 其他
+*.log
+.DS_Store
+Thumbs.db
